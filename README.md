@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello World 🌎
+### About me
+I'm a student at **{ [EPITECH](https://github.com/Epitech) } Marseille** *(Promotion 2029)*, I currently specialize in <ins>**Backend Development**</ins> *(In Javascript and Typescript)*, in <ins>**Python Development**</ins> and in <ins>**System Administration**</ins> *(UNIX and Windows)*.
 
-<!--
-**liam-colle/liam-colle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stacks 🖥️ 🗂️
+* **Web Development**
+  * **Frontend**: React *(JS / TS)* ⚛️ | HTML 🟧 | CSS 🟦 | JS *(No Framework)* 🟨
+  * **Backend**: NestJS *(JS / TS)* 😺🟥 | Flask *(Python)* 🧪
+* **Deployment**
+  * **Docker** 🐋
+  * **Docker Compose** 🐋
+* **Languages**
+  * **C** 🟦
+  * **C++** 🟦
+  * **JS** 🟨
+  * **Python** 🐍
+  * **Shell** 🐚
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to contact me 📲
+* By **Email** 📧: [liam.colle@epitech.eu](mailto:liam.colle@epitech.eu)
+* By **LinkedIn** 🟦: [Liam Colle (liam-colle-uni13)](https://www.linkedin.com/in/liam-colle-uni13/)
+* By **Discord** 🔵: [codelock.dev](https://discord.com/users/1312038809344675881/)
